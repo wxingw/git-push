@@ -29,3 +29,11 @@ git commit -m "update README.md"
 # Pushes the changes
 
 git push -f origin main
+
+# Git pull
+
+git add *
+ 
+git stash
+
+git pull https://github.com/wxingw/git-push.git
